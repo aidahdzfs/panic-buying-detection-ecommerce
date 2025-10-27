@@ -1,4 +1,4 @@
-week_start,total_sales,num_products_sold,max_single_product,mean_sales,std_sales,gini_coefficient,week_on_week_change,spike_from_mean,anomaly_flag,anomaly_score
+week_start,total_reviews,num_products_reviewed,max_single_product_reviews,mean_reviews,std_reviews,gini_coefficient,week_on_week_change,spike_from_mean,anomaly_flag,anomaly_score
 2020-01-06,92,78,3,0.013935171160254469,0.13523250260619948,0.9897033836913716,0.0,0.0,-1,-0.0817842844835065
 2020-01-13,247,175,9,0.03741290518024841,0.2789811501013536,0.9797294894075774,168.47826086956525,45.72271386430678,-1,-0.10118529335986326
 2020-01-20,246,159,9,0.03726143592850651,0.2996826293697143,0.9827608288200422,-0.4048582995951455,26.153846153846157,-1,-0.0015196682495816072
